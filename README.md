@@ -23,7 +23,7 @@
 - **Solidus Security**: [mailing list](https://groups.google.com/forum/#!forum/solidus-security)
 
 
-## Table of Contents
+## Table of Contents:
 - [Supporting Solidus](#supporting-solidus)
 - [Summary](#summary)
 - [Demo](#demo)
@@ -34,7 +34,7 @@
 - [Contributing](#contributing)
 
 ## Supporting Solidus
-As a community-driven project, Solidus relies on funds and time donated by developers and stakeholders who use Solidus for their businesses. If you'd like to help Solidus keep growing, please consider:
+As a community-driven project, Solidus relies on funds and time donated by developers and stakeholders who use Solidus for their businesses. If you'd like to help Solidus keep growing, please consider & share:
 
 - [Become a backer or sponsor on Open Collective](https://opencollective.com/solidus).
 - [Contribute to the project](https://github.com/solidusio/solidus/blob/master/CONTRIBUTING.md).
@@ -74,7 +74,7 @@ Solidus consists of several gems. When you require the `solidus` gem in your
 All of the gems are designed to work together to provide a fully functional
 ecommerce platform. However, you may only want to use the
 [`solidus_core`](https://github.com/solidusio/solidus/tree/master/core) gem
-combine it with your own custom frontend, admin interface, and API.
+combine it with your own custom front-end, admin interface,& API.
 
 ## Demo
 
@@ -83,14 +83,14 @@ Try out Solidus with one-click on Heroku:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/solidusio/solidus-example-app)
 
 Alternatively, you can use Docker to run a demo on your local machine. Run the
-following command to download the image and run it at
+following command to download the image and run it at:
 [http://localhost:3000](http://localhost:3000).
 
 ```
 docker run --rm -it -p 3000:3000 solidusio/solidus-demo:latest
 ```
 
-The admin interface can be accessed at
+The admin interface can be accessed through
 [http://localhost:3000/admin/](http://localhost:3000/admin/), the default
 credentials are `admin@example.com` and `test123`.
 
